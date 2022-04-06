@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/x64/Debug
+
+# 修改后的忽略项
+/bin/x64
+/bin/intermediates
