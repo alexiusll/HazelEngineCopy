@@ -6,5 +6,8 @@
 /x64/Debug
 
 # 修改后的忽略项
+/bin
+/bin-int
 /bin/x64
 /bin/intermediates
+
